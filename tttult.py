@@ -1,5 +1,5 @@
 import pygame
-from collections import deque #para ayudar con el mapeo de jugadas para q sea mas rapido y no se 
+from collections import deque #para ayudar con el mapeo de jugadas para q sea mas rapido
 
 pygame.init()
 ANCHO, ALTO, ANCHO_IZQ, TABLERO_SUP, CELDA, TABLERO_IZQ, PROFUNDIDAD_MAX, puntaje_jugador, puntaje_ia, MAX_TRAZA=900, 640, 440, 120, 120, 40, 5, 0, 0, 14
